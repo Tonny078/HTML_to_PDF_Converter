@@ -1,0 +1,16 @@
+{
+  "name": "html-to-pdf-converter",
+  "version": "2.0.0",
+  "description": "Batch-convert HTML files to full-page PDFs using headless Chrome",
+  "main": "universal-converter.js",
+  "scripts": {
+    "start": "node universal-converter.js",
+    "universal": "node universal-converter.js",
+    "install-deps": "npm install"
+  },
+  "dependencies": {
+    "puppeteer": "^21.6.1"
+  },
+  "keywords": ["pdf", "html", "converter", "puppeteer", "batch", "browser"],
+  "license": "MIT"
+}
