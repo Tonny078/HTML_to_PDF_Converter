@@ -1,6 +1,6 @@
 # HTML to PDF Converter
 
-A simple batch tool that converts HTML files into full-page PDFs using headless Chrome (via [Puppeteer](https://pptr.dev/)). Drop any number of `.html` files into a folder, run one command, and get pixel-accurate PDFs out — full page, background colors, fonts, emoji, and charts all preserved as they'd render in a real browser.
+A simple batch tool that converts HTML files into full-page PDFs using headless Chrome (via [Puppeteer](https://pptr.dev/)). Drop any number of `.html` files into `input` folder, run the `run-universal-converter.bat`, and get pixel-accurate PDFs out, full page, background colors, fonts, emoji, and charts all preserved as they'd render in a real browser.
 
 Free to use, modify, and distribute under the [MIT License](LICENSE).
 
